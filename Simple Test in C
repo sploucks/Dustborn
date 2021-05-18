@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int pickFighter();
+
+int main() {
+    
+    return 0;
+}
+
+int pickFighter(){
+    int players[x][y][z] = 
+    
+    printf("PICK YOUR FIGHTER: ");
+    
+}
